@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 ---
 👋 Hey, I’m Saran (Mighty) Burapachaisri! I’m a sophomore studying Mechanical Engineering with a minor in Computer Science at the University of Illinois at Urbana-Champaign! I have a passion for turning spontaneous ideas into products (just like this website)! This website is a work in progress, but feel free to stroll around! 
 
